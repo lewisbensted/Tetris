@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build outputs
+task/build/
+out/
+*.class
+
+# Hyperskill/course metadata
+*.yaml
+Getting Started/
+I Disappear/
+I Like to Move It/
+Let the Pieces Hit the Floor/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -2,7 +2,7 @@ package tetris;
 
 import java.util.*;
 
-public class Main {
+public class Tetris {
     static Integer[][] O = {{4, 14, 15, 5}};
     static Integer[][] I = {{4, 14, 24, 34}, {3, 4, 5, 6}};
     static Integer[][] S = {{5, 4, 14, 13}, {4, 14, 15, 25}};

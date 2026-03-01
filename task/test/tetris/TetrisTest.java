@@ -1,8 +1,8 @@
-import org.hyperskill.hstest.dynamic.DynamicTest;
+package tetris;
+
 import org.hyperskill.hstest.stage.StageTest;
 import org.hyperskill.hstest.testcase.CheckResult;
 import org.hyperskill.hstest.testcase.TestCase;
-import org.hyperskill.hstest.testing.TestedProgram;
 
 import java.util.*;
 
